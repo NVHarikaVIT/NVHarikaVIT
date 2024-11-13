@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nune Venkata Harika.
-- 👀 I’m interested in coding and learning new tech concepts
+- 👀 I’m an aspiring data analyst.
 - 🌱 I’m currently learning R, MySQL, Python to set a career in Data Analytics
-- 💞️ I’m looking to collaborate on different platforms to showcase my skills and enhance my problem solving skills 
+- 💞️ I’m looking to enhance my skills and develop some real-time projects.
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/venkataharikanune/
 - 😄 Pronouns: She/Her
 
